@@ -5,4 +5,4 @@
 
 virtualenv --system-site-packages .env
 . ./.env/bin/activate
-pip install -r ./uw_test/requirements.txt
+pip install -r ./uw_main/requirements.txt
