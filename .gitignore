@@ -12,6 +12,7 @@
 *-env/*
 env/
 .idea
+.project
 .pydevproject
 .pydevproject.bak
 .settings

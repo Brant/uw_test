@@ -6,7 +6,7 @@ To run
 
 2) ./devscripts/virtualenv/setup_dev_env.sh
 
-3) ./devscripts/uwsgi/uwsgi_start.sh
+3) ./devscripts/uwsgi/start_uwsgi.sh
 
 4) http://127.0.0.1:9000
 
